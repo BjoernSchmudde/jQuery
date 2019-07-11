@@ -1,2 +1,0 @@
-# jQuery
-Created with CodeSandbox
